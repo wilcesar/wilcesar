@@ -2,6 +2,6 @@
 
 
 - 🔭 Hoje trabalho com Java e Delphi
-- 🌱 Estudando Rest/Spring Boot
+- 🌱 Estudando APIs RESTful
 - 📫 Entre em contato comigo pelo wilcesar7@gmail.com
 
