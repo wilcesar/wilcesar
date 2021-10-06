@@ -22,9 +22,9 @@
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">  
 </div>
-<br/>
+<div style="display: inline-block"></br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilcesar&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilcesar)](https://github.com/wilcesar/github-readme-stats)
-
+</div>
