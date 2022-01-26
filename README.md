@@ -1,6 +1,6 @@
 ### Olá! Eu sou Wilian Cesar 👋
 
-- 🔭 Hoje trabalho com Java e Delphi
+- 🔭 Hoje trabalho com C# e Delphi
 - 🌱 Estudando APIs RESTful
 - 📫 Entre em contato comigo pelo wilcesar7@gmail.com
 - 🏡 Cascavel - Paraná
